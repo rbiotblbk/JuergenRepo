@@ -1,0 +1,86 @@
+{
+    "0": [
+        "div",
+        "id",
+        "pagetop"
+    ],
+    "1": [
+        "div",
+        "id",
+        "footer"
+    ],
+    "2": [
+        "div",
+        "id",
+        "right"
+    ],
+    "3": [
+        "div",
+        "id",
+        "mainLeaderboard"
+    ],
+    "4": [
+        "div",
+        "class",
+        "w3-clear nextprev"
+    ],
+    "5": [
+        "div",
+        "id",
+        "topnav"
+    ],
+    "6": [
+        "div",
+        "id",
+        "midcontentadcontainer"
+    ],
+    "7": [
+        "div",
+        "id",
+        "getdiploma"
+    ],
+    "8": [
+        "iframe"
+    ],
+    "9": [
+        "argprec0"
+    ],
+    "10": [
+        "argprec1"
+    ],
+    "11": [
+        "style",
+        "class",
+        "sf-hidden"
+    ],
+    "12": [
+        "div",
+        "id",
+        "googleSearch"
+    ],
+    "13": [
+        "div",
+        "id",
+        "google_translate_element"
+    ],
+    "14": [
+        "div",
+        "id",
+        "myAccordion"
+    ],
+    "15": [
+        "div",
+        "id",
+        "snigel-cmp-framework"
+    ],
+    "16": [
+        "a",
+        "href",
+        "https://www.w3schools.com/"
+    ],
+    "17": [
+        "div",
+        "id",
+        "sidenav"
+    ]
+}
